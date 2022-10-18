@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: After being sure that sort2 uses merge sort, I tested the time for sorted10000.txt and sorted50000.txt with sort1 and sort3. sort1 was significantly faster than sort3. As we know that the big omega for bubble sort is 'n' compared to that of selection sort being 'n^2, sort1 was clearly the bubble sort.
+
+sort2 uses: merge sort
+
+How do you know?: It had the fastest big O for random10000.txt and random50000.txt that I tested.
+
+sort3 uses: selection sort
+
+How do you know?: The big omega for multiple files that I checked was considerably more than that of sort1.
