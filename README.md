@@ -6,7 +6,7 @@ Taught by [David J. Malan](https://github.com/dmalan) at Harvard every fall.
 
 #
 
-#### A repository to track my progress in this course as I strive to finish it before the end of 2022.
+#### A repository to track my progress in this course.
 
 #
 ### Course Links:
