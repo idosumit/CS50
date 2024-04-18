@@ -1,4 +1,5 @@
-# CS50: Computer Science 50 (ver. 2024)
+# CS50’s Introduction to Computer Science
+(ver. 2024)
 
 ### CS50: Introduction to the intellectual enterprises of computer science and the art of programming
 
