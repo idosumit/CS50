@@ -113,7 +113,7 @@ float functionL(string text){
         - if there's a fullstop OR an exclamation mark OR a question mark (do the rest later after first completing the simpler version -----> OR ellipsis (...) OR quotation marks followed by a period
         (also have to skip:
             - Mr., Mrs., Dr., etc..
-            - Numbers and URLS (3.14, https://global.rakuten.com, etc)
+            - Numbers and URLS (3.14, https://global.msft.com, etc)
             )
 */
 float functionS(string text) {
